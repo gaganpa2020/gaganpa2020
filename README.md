@@ -1,5 +1,3 @@
-![test](https://user-images.githubusercontent.com/2247913/124847732-7d333480-df69-11eb-952c-b5134cb2d02e.jpeg)
-
 ### Hi there 👋
 
 <!--
